@@ -1,2 +1,2 @@
 # CompuMovilP2
-Parte practica de a prueba 2 de computación móvil
+Parte practica de la prueba 2 de computación móvil
